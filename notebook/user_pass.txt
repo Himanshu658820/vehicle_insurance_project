@@ -3,4 +3,10 @@
 mongodb+srv://himanshuofficial6588_db_user:8eyu0Y3Ekuw1vTbr@cluster0.fovbfoa.mongodb.net/?appName=Cluster0
 
 
+$env:MONGODB_URL = "mongodb+srv://himanshuofficial6588_db_user:8eyu0Y3Ekuw1vTb@cluster0.fovbfoa.mongodb.net/?appName=Cluster0"
+
+
+$env:MONGODB_URL = "mongodb+srv://himanshuofficial6588_db_user:8eyu0Y3Ekuw1vTbr@cluster0.fovbfoa.mongodb.net/?appName=Cluster0"
+
+
 mongodb+srv://himanshuofficial6588_db_user:<db_password>@cluster0.fovbfoa.mongodb.net/?appName=Cluster0
